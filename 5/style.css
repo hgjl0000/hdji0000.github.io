@@ -1,0 +1,30 @@
+h1{
+    font-family: Kablammo, cursive;
+    text-align: Kablammo, cursive ;
+color: darkred;
+
+}
+a{
+    font-family: Kablammo, cursive;
+font-size: 1.2em;
+text-decoration: none;
+transition: 0.5s;
+color: rgb(64, 55, 184);
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu-item{
+    background-color: rgb(208, 197, 184);
+    text-align: center;
+    margin: 3px;
+    padding: 10px;
+}
+a:hover{
+    letter-spacing: 4px;
+    text-shadow: 1px 1px 4px rgb(5, 58, 68);
+}
+img{
+    width: 80%;
+    margin: 20px;
+}
