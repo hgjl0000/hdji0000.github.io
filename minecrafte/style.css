@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+    border-radius: 10px;}
+
+.fon{
+    background-color:#4B4453 ;
+}
+.lol{
+background-color: #4B4453;
+}
+body{
+    background-color: #e6d4fa;
+}
+.nav-link{
+    color: black;
+}
+.card-header{
+    background-color: #6e6e6e;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+ .socio-link{
+    font-size: 1.8em;
+    color: #e6d4fa;
+    text-decoration: none;
+ }
+ footer{
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
